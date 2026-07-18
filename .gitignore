@@ -1,0 +1,59 @@
+# Node / Bun / JS-Vite frameworks (node-express, nestjs, bun, react-vite,
+# vue-vite, svelte-vite, nextjs, nuxt, astro)
+node_modules/
+dist/
+.output/
+.nuxt/
+.astro/
+.vite/
+.next/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+bun.lockb
+
+# Python (python-fastapi)
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Go
+/go/bin/
+
+# Java / Maven (java-maven)
+target/
+*.class
+*.jar
+
+# PHP (php)
+vendor/
+composer.phar
+
+# Ruby (ruby-sinatra)
+.bundle/
+vendor/bundle/
+
+# Rust (rust)
+/rust/target/
+Cargo.lock
+
+# Elixir (elixir)
+/elixir/_build/
+/elixir/deps/
+*.beam
+
+# .NET (dotnet)
+bin/
+obj/
+
+# Deno (deno)
+.deno/
+
+# Editor / OS noise
+.DS_Store
+*.log
+.env
+.env.local

@@ -1,0 +1,6 @@
+{
+  "name": "orbit-bun-starter",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "start": "bun run index.ts" }
+}
